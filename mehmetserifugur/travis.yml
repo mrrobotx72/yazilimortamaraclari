@@ -1,4 +1,4 @@
 language : java
-script : "mvn -f Ders7MavenJunitProje/pom.xml clean test verify"
+script : "mvn -f mehmetserifugur/pom.xml clean test verify"
 jdk: 
    - openjdk8
